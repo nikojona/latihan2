@@ -1,3 +1,6 @@
 Ini yang ditulis sama Azki.
 Nanti kita update perubahannya saat merge.
 kita akan gabungkan tulisan apabila ada conflict.
+
+Ini yang di tulis sama Andre.
+Nanti kita bisa tambahkan tulisan dari Azki saat di merge.
