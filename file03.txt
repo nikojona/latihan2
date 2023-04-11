@@ -1,0 +1,3 @@
+Ini yang ditulis sama Azki.
+Nanti kita update perubahannya saat merge.
+kita akan gabungkan tulisan apabila ada conflict.
